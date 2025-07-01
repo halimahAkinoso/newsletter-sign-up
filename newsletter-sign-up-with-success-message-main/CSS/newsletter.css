@@ -1,0 +1,28 @@
+.card {
+    border: 5px solid red;
+    margin: 3rem;
+    padding: 1rem 1rem;
+   
+}
+li{
+    list-style-type: none;
+}
+
+
+
+body{
+ font-size: 16px;
+}
+
+.card-text{
+    color: hsl(235, 18%, 26%);
+}
+
+.card-body {
+    border: 2px solid blue;
+    
+}
+
+.all {
+    border: 1px solid green;
+}
